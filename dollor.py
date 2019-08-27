@@ -1,8 +1,9 @@
 import requests
-from bs4 import BeautifulSoup
-import os import system
 import datetime
 import re
+from bs4 import BeautifulSoup
+import os import system
+
  
 dollor_var = ''
 url = 'http://www.tgju.org/dollar-chart'
