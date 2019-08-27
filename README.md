@@ -4,11 +4,11 @@
 
 
 # requirements
-to install requirements run this command in to the terminal:
-pip install -r requirements.txt
+to install requirements run this command in to the terminal:</br>
+`pip install -r requirements.txt`
 
 
 # how to run dollar-price script
-git clone https://github.com/mr-tafreshi/Dollar-price
-cd Dollar-price
-python3 dollar.py
+`git clone https://github.com/mr-tafreshi/Dollar-price`
+`cd Dollar-price`
+`python3 dollar.py`
