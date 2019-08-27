@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import os
+import os import system
 import datetime
 import re
  
@@ -16,6 +16,7 @@ while True :
             print("تغییر قیمت")
             print(datetime.datetime.now().time())
             print(sitedata.string)
+            system('cvlc win.wanv')
             
 
 
