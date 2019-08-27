@@ -9,6 +9,6 @@ to install requirements run this command in to the terminal:</br>
 
 
 # how to run dollar-price script
-`git clone https://github.com/mr-tafreshi/Dollar-price`
-`cd Dollar-price`
+`git clone https://github.com/mr-tafreshi/Dollar-price`</br>
+`cd Dollar-price`</br>
 `python3 dollar.py`
