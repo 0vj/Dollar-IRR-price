@@ -11,4 +11,6 @@ to install requirements run this command in to the terminal:</br>
 # how to run dollar-price script
 `git clone https://github.com/mr-tafreshi/Dollar-price`</br>
 `cd Dollar-price`</br>
+`pip3 install -r requirments.txt`</br>
 `python3 dollar.py`
+
