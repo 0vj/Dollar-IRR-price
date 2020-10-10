@@ -2,7 +2,7 @@ import requests
 import datetime
 import re
 from bs4 import BeautifulSoup
-import os import system
+from os import system
 
  
 dollor_var = ''
