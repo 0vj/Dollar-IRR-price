@@ -1,6 +1,8 @@
 # Dollar-price-IRR
-قیمت دلار خیلی حالش خوب نیست :) این اسکریپت از سایت http://www.tgju.org/dollar-chart به شما قیمتش رو نشون میده :)
-
+قیمت دلار خیلی حالش خوب نیست :) 
+این اسکریپت از سایت
+http://www.tgju.org/dollar-chart
+به شما قیمتش رو نشون میده :)
 
 # Requirements
 to install requirements run this command in to the terminal:</br>
