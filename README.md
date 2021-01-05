@@ -1,7 +1,9 @@
 # Dollar-price-IRR
-قیمت دلار خیلی حالش خوب نیست :) 
+قیمت دلار خیلی حالش خوب نیست :)</br> 
 این اسکریپت از سایت
+</br>
 http://www.tgju.org/dollar-chart
+</br>
 به شما قیمتش رو نشون میده :)
 
 # Requirements
