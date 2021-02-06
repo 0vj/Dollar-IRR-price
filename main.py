@@ -10,3 +10,5 @@ def main():
      soup = BeautifulSoup(site.text, 'html.parser')
      price = soup.find('td', class_='nf')
      print("Price per dollar in Rials:", price.string)
+
+main()
