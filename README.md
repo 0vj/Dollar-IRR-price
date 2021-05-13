@@ -5,6 +5,8 @@
 http://www.tgju.org/dollar-chart
 </br>
 به شما قیمتش رو نشون میده :)
+</br>
+پ.ن : برای یه بلاگ پست نوشته شده :)
 
 # Requirements
 to install requirements run this command in to the terminal:</br>
